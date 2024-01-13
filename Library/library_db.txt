@@ -1,0 +1,6 @@
+1,Book1,Author1,yes
+2,Book2,Author2,yes
+3,Book3,Author3,no
+4,Book4,Author4,yes
+5,Book5,Author5,no
+6,Book6,Author6,yes
